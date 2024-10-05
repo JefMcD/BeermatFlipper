@@ -18,6 +18,14 @@ const image_database = [
       title : 'Invocation',
       description : 'Summoning the avatar'
     },
+
+    { id: uuidv4(),
+      imgName : 'celtic-v-rangers-1000.jpg',
+      title : 'Celtic Fans',
+      description : 'Sunday Football Fams on New Years Day'
+    },    
+
+
   
     { id: uuidv4(),
       imgName : 'Rivers-Underworld-1000.jpg',
