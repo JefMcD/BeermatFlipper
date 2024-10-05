@@ -1,0 +1,33 @@
+:root{
+    --general_text: comic_text, comic_text_backup, Arial, sans-serif;
+    --title1: comic_title, bladerunner, Arial, sans-serif;
+}
+
+
+
+@font-face{
+    font-family: comic_title;
+    src: url('../assets/fonts/woff2/BADABB_.woff2') format(woff2);
+    src: url('../assets/fonts/woff/BADABB_.woff') format(woff);
+    src: url('../assets/fonts/tiff/BADABB_.ttf') format(tiff)
+}
+@font-face {
+    font-family: bladerunner;
+    src: url('../assets/fonts/woff2/spantaran.woff2') format(woff2);
+    src: url('../assets//fonts/woff/spantaran.woff') format(woff);   
+}
+
+@font-face {
+    font-family: comic_text;
+    src: url('../assets/fonts/woff2/Cutie_Patootie.woff2') format(woff2);
+    src: url('../assets/fonts/woff/Cutie_Patootie.woff') format(woff);
+    src: url('../assets/fonts/tiff/Cutie_Patootie.ttf') format(tiff);
+}
+
+@font-face {
+    font-family: comic_backup_text;
+    src: url('../assets/fonts/woff2/comici.woff2') format(woff2);
+    src: url('../assets/fonts/woff/comici.woff') format(woff);
+    src: url('../assets/fonts/tiff/comici.ttf') format(tiff);
+}
+

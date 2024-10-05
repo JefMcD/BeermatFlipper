@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="41.350014"
+   height="47.544449"
+   viewBox="0 0 10.940525 12.579469"
+   version="1.1"
+   id="svg1"
+   inkscape:export-filename="byJupitor.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm" />
+  <defs
+     id="defs1">
+    <rect
+       x="146.48508"
+       y="263.05768"
+       width="197.9933"
+       height="202.09077"
+       id="rect6" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-1.2735966,-0.35582601)">
+    <text
+       xml:space="preserve"
+       transform="matrix(0.06303632,0,0,0.06303632,-7.7219915,-15.988172)"
+       id="text5"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:1;font-family:Alienated;-inkscape-font-specification:Alienated;text-align:start;letter-spacing:5px;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect6);fill:none;stroke:#808080;stroke-width:7.55906;stroke-linecap:round;stroke-miterlimit:20.8;stroke-dashoffset:190.753"
+       x="-88.5"
+       y="0"><tspan
+         x="146.48438"
+         y="311.05859"
+         id="tspan1">by </tspan><tspan
+         x="146.48438"
+         y="359.05859"
+         id="tspan2">jup</tspan><tspan
+         x="146.48438"
+         y="407.05859"
+         id="tspan3">ite</tspan><tspan
+         x="146.48438"
+         y="455.05859"
+         id="tspan4">r</tspan></text>
+  </g>
+</svg>
