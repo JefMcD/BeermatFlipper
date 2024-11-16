@@ -15,10 +15,6 @@
   border: 2px solid var(--lt-001);
   border-radius: 3vw;
 
-  /* background-image: url('../images/svg/byJupiter.svg');
-  background-size: cover;
-  background-position: top left;
-  background-repeat: repeat; */
 }
 .pic-title{
   position: relative;
